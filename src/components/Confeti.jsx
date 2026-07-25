@@ -29,6 +29,7 @@ function Confeti() {
             top: `${10 + Math.random() * 70}%`,
             left: 0,
             animation: `volar ${4 + Math.random() * 3}s linear ${Math.random() * 3}s infinite`,
+            animationFillMode: "backwards",
           }}
         >
           ✈️
