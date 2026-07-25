@@ -33,4 +33,13 @@ INSERT INTO palabras (palabra, dificultad) VALUES
 ('gaviota', 'media'), ('paloma', 'media'), ('ventana', 'media'), ('corbata', 'media'), ('helado', 'media'),
 ('camino', 'media'), ('planeta', 'media'), ('fabrica', 'media'), ('cosecha', 'media'), ('botella', 'media'),
 ('mariposa', 'media'), ('fotografia', 'alta'), ('computadora', 'alta'), ('periodista', 'alta'), ('biblioteca', 'alta'),
-('submarino', 'alta'), ('diccionario', 'alta'), ('electronico', 'alta'), ('temperatura', 'alta');
+('submarino', 'alta'), ('diccionario', 'alta'), ('electronico', 'alta'), ('temperatura', 'alta'),
+('sol', 'baja'), ('mar', 'baja'), ('luz', 'baja'), ('flor', 'baja'), ('nube', 'baja'),
+('arbol', 'baja'), ('leon', 'baja'), ('vaca', 'baja'), ('pera', 'baja'), ('miel', 'baja'),
+('dedo', 'baja'), ('mano', 'baja'), ('tren', 'baja'), ('gol', 'baja'), ('reloj', 'baja'),
+('caballo', 'media'), ('zapato', 'media'), ('guitarra', 'media'), ('naranja', 'media'), ('pescado', 'media'),
+('sombrero', 'media'), ('cuaderno', 'media'), ('pantera', 'media'), ('semilla', 'media'), ('tortuga', 'media'),
+('caramelo', 'media'), ('estrella', 'media'), ('pelicano', 'media'), ('bandera', 'media'), ('mochila', 'media'),
+('astronauta', 'alta'), ('murcielago', 'alta'), ('telescopio', 'alta'), ('helicoptero', 'alta'), ('universidad', 'alta'),
+('matematica', 'alta'), ('arquitecto', 'alta'), ('bicicleta', 'alta'), ('refrigerador', 'alta'), ('rompecabezas', 'alta'),
+('calculadora', 'alta'), ('experimento', 'alta'), ('microscopio', 'alta'), ('primavera', 'alta'), ('carpintero', 'alta');
